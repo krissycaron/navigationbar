@@ -1,0 +1,16 @@
+
+
+li{
+	list-style: none;
+	display: inline-flex;
+	flex-direction: row;
+}
+
+a:hover {
+	background-color: slategrey;
+	color: violet;
+	border: 0 5px 0 5px;
+}
+a:active {
+	border: 5px solid black;
+}
